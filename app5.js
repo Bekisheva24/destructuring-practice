@@ -1,4 +1,4 @@
-//  DEFOULT values
+//  DEFAULT values
 
 let arr = ["Иван", "Иванов", "отдел разработки", "программист"];
 
